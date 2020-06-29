@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><!-- fragment_screen_slide_page.xml -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark">
+
+    <TextView
+        android:id="@+id/current_page"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:lineSpacingMultiplier="1.2"
+        android:padding="16dp"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/dime24sp"
+        tools:text="1" />
+</ScrollView>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Slider</string>
+    <string name="slider_loading_msg">LOADING...</string>
+    <string name="welcome_slider_title">Welcome to slider component</string>
+    <string name="description_slider">Created by luis</string>
+    <string name="background_slider">Working...</string>
+    <string name="first_text_slide">This app is really easy to use the only thing that you have to do is move your finger...blablabla</string>
+    <string name="second_text_slide">The second thing that you have to know is how to use cororoutine...balbalabla</string>
+</resources>

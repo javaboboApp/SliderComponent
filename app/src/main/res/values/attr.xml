@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SliderCompoundView">
+        <attr name="title" format="string"/>
+        <attr name="description" format="string"/>
+        <attr name="bacground_text" format="string"/>
+        <attr name="page_number" format="integer"/>
+
+    </declare-styleable>
+</resources>
